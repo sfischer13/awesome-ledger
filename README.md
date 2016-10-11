@@ -9,6 +9,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Contents
 
 - [Introduction](#introduction)
+- [Documentation](#documentation)
 - [License](#license)
 
 ## Introduction
@@ -16,6 +17,9 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 - [Ledger](http://ledger-cli.org/) - Official website.
 - [Wikipedia](https://en.wikipedia.org/wiki/Ledger_(software)) - Wikipedia entry about Ledger.
 
+## Documentation
+
+- [Manual](http://ledger-cli.org/3.0/doc/ledger3.html) - Official manual.
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
