@@ -10,6 +10,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 - [Introduction](#introduction)
 - [Documentation](#documentation)
+- [Tools](#tools)
 - [License](#license)
 
 ## Introduction
@@ -20,6 +21,10 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Documentation
 
 - [Manual](http://ledger-cli.org/3.0/doc/ledger3.html) - Official manual.
+
+## Tools
+
+- [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
