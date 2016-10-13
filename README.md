@@ -19,6 +19,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Introduction
 
 - [Ledger](http://ledger-cli.org/) - Official website.
+- [Wiki](https://github.com/ledger/ledger/wiki) - Official wiki.
 - [Wikipedia](https://en.wikipedia.org/wiki/Ledger_(software)) - Wikipedia entry about Ledger.
 
 ## Documentation
