@@ -34,6 +34,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Social
 
 - [reddit](https://www.reddit.com/r/ledger/) - Ledger subreddit.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
