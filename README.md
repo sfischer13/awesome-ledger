@@ -13,6 +13,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 - [Introduction](#introduction)
 - [Documentation](#documentation)
 - [Tools](#tools)
+- [Social](#social)
 - [License](#license)
 
 
@@ -30,7 +31,9 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 - [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
 
+## Social
 
+- [reddit](https://www.reddit.com/r/ledger/) - Ledger subreddit.
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
