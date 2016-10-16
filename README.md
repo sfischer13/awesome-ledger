@@ -14,6 +14,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 - [Documentation](#documentation)
 - [Tools](#tools)
 - [Social](#social)
+- [Media](#media)
 - [License](#license)
 
 
@@ -34,6 +35,11 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Social
 
 - [reddit](https://www.reddit.com/r/ledger/) - Ledger subreddit.
+
+## Media
+
+- [FLOSS Weekly 150](https://twit.tv/shows/floss-weekly/episodes/150) - Interview with the developer.
+- [FLOSS Weekly 375](https://twit.tv/shows/floss-weekly/episodes/375) - Interview about an alternative implementation.
 
 ## License
 
