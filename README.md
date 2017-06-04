@@ -49,6 +49,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Tools
 
+- [ledgerhelpers](https://github.com/Rudd-O/ledgerhelpers) - Collection of helper programs.
 - [node-ledger-web](https://github.com/slashdotdash/node-ledger-web) - Web front-end to ledger data.
 
 ## Social
