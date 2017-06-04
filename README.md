@@ -43,6 +43,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Editors
 - [vim](https://github.com/ledger/vim-ledger) - Vim plugin.
 - [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
+- [Atom](https://atom.io/packages/language-ledger) - Atom package.
 
 ## Tools
 
