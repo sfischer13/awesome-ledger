@@ -13,6 +13,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 - [Introduction](#introduction)
 - [Background](#background)
 - [Documentation](#documentation)
+- [Editors](#editors)
 - [Tools](#tools)
 - [Social](#social)
 - [Media](#media)
@@ -36,10 +37,11 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 - [Manual](http://ledger-cli.org/3.0/doc/ledger3.html) - Official manual.
 - [man page](http://ledger-cli.org/3.0/doc/ledger.1.html) - Description of command-line options.
 
-## Tools
-
+## Editors
 - [vim](https://github.com/ledger/vim-ledger) - Vim plugin.
 - [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
+
+## Tools
 
 ## Social
 
