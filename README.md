@@ -38,6 +38,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Tools
 
+- [vim](https://github.com/ledger/vim-ledger) - Vim plugin.
 - [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
 
 ## Social
