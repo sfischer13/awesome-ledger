@@ -49,6 +49,8 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Tools
 
+- [node-ledger-web](https://github.com/slashdotdash/node-ledger-web) - Web front-end to ledger data.
+
 ## Social
 
 - [reddit](https://www.reddit.com/r/ledger/) - Ledger subreddit.
