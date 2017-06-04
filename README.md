@@ -29,6 +29,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Background
 
 - [Plain Text Accounting](http://plaintextaccounting.org/) - General idea behind ledger.
+- [Wikipedia](https://en.wikipedia.org/wiki/Double-entry_bookkeeping_system) - Wikipedia entry about double-entry bookkeeping.
 
 ## Documentation
 
