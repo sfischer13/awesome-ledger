@@ -37,6 +37,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Documentation
 
+- [Book](https://github.com/rolfschr/GSWL-book) - Introductory book on ledger.
 - [Manual](http://ledger-cli.org/3.0/doc/ledger3.html) - Official manual.
 - [man page](http://ledger-cli.org/3.0/doc/ledger.1.html) - Description of command-line options.
 
