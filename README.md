@@ -20,7 +20,6 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 - [Social](#social)
 - [Media](#media)
 - [Miscellaneous](#miscellaneous)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
