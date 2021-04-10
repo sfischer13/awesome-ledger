@@ -1,3 +1,5 @@
+<!--lint disable double-link-->
+
 # Awesome Ledger [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful resources for the [Ledger](http://ledger-cli.org/) command-line accounting system
