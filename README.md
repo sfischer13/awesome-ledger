@@ -47,6 +47,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 - [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
 - [Atom](https://atom.io/packages/language-ledger) - Atom package.
 - [VS Code](https://github.com/mariosangiorgio/vscode-ledger) - Ledger language support for Visual Studio Code.
+- [Jetbrain;s IDEs](https://plugins.jetbrains.com/plugin/15405-ledger-cli) - Ledger language support for all Jetbrains products (IntelliJ, ...).
 
 ## Tools
 
