@@ -4,7 +4,7 @@
 
 > Useful resources for the [Ledger](http://ledger-cli.org/) command-line accounting system
 
-You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beancount).
+You might also like [awesome-beancount](https://github.com/siddhantgoel/awesome-beancount).
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
