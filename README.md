@@ -54,6 +54,10 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 - [node-ledger-web](https://github.com/slashdotdash/node-ledger-web) - Web front-end to Ledger data.
 - [ledger-autosync](https://github.com/egh/ledger-autosync) - Program to sync Ledger files with bank.
 
+## Development
+
+- [pta-tools](https://www.npmjs.com/package/pta-tools) - Javascript library to parse / format ledger files
+
 ## Social
 
 - [Twitter](https://twitter.com/LedgerTips) - Usage tips.
